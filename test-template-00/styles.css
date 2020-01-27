@@ -38,7 +38,7 @@ a:active {
 .logo-2 {
   display: none;
   width: 55px;
-  margin-right: 2%;
+  margin-right: 10px;
   margin-top: 20px;
 }
 .menu-2 {
@@ -80,7 +80,7 @@ figure {
 .header_flex_container_1 .logo-1 {
   width: 260px;
   height: 61px;
-  margin-right: 2%;
+  margin-right: 10px;
   margin-top: 20px;
 }
 .header_flex_container_1 .call_us {
